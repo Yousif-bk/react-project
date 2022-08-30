@@ -1,4 +1,3 @@
-import "./App.css";
 import React from "react";
 import { Footer, Header, Sidebar } from "./components";
 function App() {
